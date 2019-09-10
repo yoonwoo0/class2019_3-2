@@ -609,23 +609,6 @@
 									"subViews": [
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAFtGgpfsunIbLU=",
-											"_parent": {
-												"$ref": "AAAAAAFtGgo3BOmkyB0="
-											},
-											"model": {
-												"$ref": "AAAAAAFtGgpfk+nFCeE="
-											},
-											"font": "Arial;13;0",
-											"left": 317,
-											"top": 133,
-											"width": 158,
-											"height": 13,
-											"text": "+Animal()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAFtGgp2s+nO6Uw=",
 											"_parent": {
 												"$ref": "AAAAAAFtGgo3BOmkyB0="
@@ -635,7 +618,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 148,
+											"top": 133,
 											"width": 158,
 											"height": 13,
 											"text": "+cry()",
@@ -652,7 +635,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 163,
+											"top": 148,
 											"width": 158,
 											"height": 13,
 											"text": "+move()",
@@ -669,7 +652,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 178,
+											"top": 163,
 											"width": 158,
 											"height": 13,
 											"text": "+display()",
@@ -686,7 +669,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 317,
-											"top": 193,
+											"top": 178,
 											"width": 158,
 											"height": 13,
 											"text": "+fly()",
@@ -697,7 +680,7 @@
 									"left": 312,
 									"top": 128,
 									"width": 168,
-									"height": 83
+									"height": 68
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -1066,14 +1049,6 @@
 					},
 					"name": "Animal",
 					"operations": [
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAFtGgpfk+nFCeE=",
-							"_parent": {
-								"$ref": "AAAAAAFtGgo3BOmbQQ0="
-							},
-							"name": "Animal"
-						},
 						{
 							"_type": "UMLOperation",
 							"_id": "AAAAAAFtGgp2cenL2CQ=",
