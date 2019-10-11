@@ -3753,7 +3753,7 @@
 											"top": 319,
 											"width": 162.53173828125,
 											"height": 13,
-											"text": "Blocked   Synchronized"
+											"text": "Blocked OR Synchronized"
 										},
 										{
 											"_type": "LabelView",
@@ -4181,7 +4181,7 @@
 										"$ref": "AAAAAAFtqhWx0p70gX8="
 									},
 									"edgePosition": 1,
-									"text": "METHOD notify, notifyAll  timeout"
+									"text": "METHOD notify, notifyAll OR timeout"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -5093,7 +5093,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFtqhLnNJ2UYJw="
 							},
-							"name": "Blocked   Synchronized"
+							"name": "Blocked OR Synchronized"
 						},
 						{
 							"_type": "UMLFinalState",
@@ -5190,7 +5190,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFtqhWx0Z7zVik="
 									},
-									"name": "notifyAll  timeout"
+									"name": "notifyAll OR timeout"
 								}
 							]
 						},
